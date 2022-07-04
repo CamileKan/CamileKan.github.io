@@ -1,2 +1,2 @@
 # CamileKan.github.io
-Currículo do Jornada Dev
+Currículo do workshop Jornada Dev promovido pela EBAC  
